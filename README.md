@@ -1,3 +1,4 @@
-# project1
-because i don't have more time,it only contains a few  functions.
+# 计算机网络与通信项目一
+时间有限，就先这样了
+陈秉辉2018080901001
 ...
